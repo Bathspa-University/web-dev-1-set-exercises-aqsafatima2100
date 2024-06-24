@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #29aed7;
+}
+header {
+    background-color: #f341e169;
+    color: #861b92;
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin: 10px 0;
+}
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #7f517f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #000000;
+    margin-top: 0;
+}
+
+.description p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+

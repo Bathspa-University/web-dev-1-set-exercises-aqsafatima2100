@@ -1,0 +1,18 @@
+div:nth-child(1) {
+    background-color: #ff7f0e;
+    color: white;
+  }
+  .img1 {
+    box-shadow: 15px 15px 25px skyblue;
+    filter: drop-shadow(50%);
+  }
+  .img3
+  {
+    box-shadow: 15px 15px 25px skyblue;
+    filter: blur(6px)
+  }
+  .img9
+  {
+    box-shadow: 15px 15px 25px skyblue;
+    filter:opacity(50%)
+  }
